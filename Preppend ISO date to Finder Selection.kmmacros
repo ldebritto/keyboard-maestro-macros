@@ -84,9 +84,9 @@
 				<key>CreationDate</key>
 				<real>664056519.02866697</real>
 				<key>ModificationDate</key>
-				<real>664057748.11955905</real>
+				<real>664058957.61089802</real>
 				<key>Name</key>
-				<string>Rename file to insert current date pattern before its name</string>
+				<string>Preppend ISO date to Finder Selection</string>
 				<key>Triggers</key>
 				<array/>
 				<key>UID</key>
